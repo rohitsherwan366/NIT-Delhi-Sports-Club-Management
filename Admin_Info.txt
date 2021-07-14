@@ -1,0 +1,4 @@
+Admin Panel Login:
+username: admin
+password: Testing321
+
