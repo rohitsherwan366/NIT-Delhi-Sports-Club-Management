@@ -35,18 +35,18 @@ Future scope of this project is that we can implement the organizing, monitoring
         *  Easy to Integrate with Python Libraries/Functions
 
 
-## Screenshots
+# Screenshots
 
-##### User Registration / Login Page
+## User Registration / Login Page
 ![login](https://user-images.githubusercontent.com/39465843/125576615-afaf936d-a188-42ac-b374-0d2896249856.png)
 
-##### User home page
+## User home page
 ![user_home](https://user-images.githubusercontent.com/39465843/125576720-2098fc71-d1e4-4e82-9119-fc3e4e8924ed.png)
 
-##### User Event Page
+## User Event Page
 ![event](https://user-images.githubusercontent.com/39465843/125576795-a2b8dec7-0ab1-4e62-919f-9cefa5158c09.png)
 
-##### User Ground Booking Page
+## User Ground Booking Page
 ![ground_book](https://user-images.githubusercontent.com/39465843/125576854-3afade2d-c47f-490f-bdde-617e8a0fe0c4.png)
 
 
